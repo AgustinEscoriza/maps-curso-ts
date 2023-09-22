@@ -1,0 +1,11 @@
+10
+58C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\src133398840492631065 1
+59C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist133398836947384219 1
+65C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\index.html133398836345722789 0
+67C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\src\index.ts133398836541867722 0
+77C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist\index.377278e2.js133398836946806898 0
+66C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\src\User.ts133398840492631065 0
+81C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist\index.377278e2.js.map133398836946856873 0
+77C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist\index.b71e74eb.js133398836947344067 0
+81C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist\index.b71e74eb.js.map133398836947374229 0
+70C:\Users\agustin.escoriza\Desktop\Devdev\maps-tscourse\dist\index.html133398836946736903 0
