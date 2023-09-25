@@ -1,7 +1,7 @@
 {
-  "name": "maps-tscourse",
+  "name": "maps",
   "version": "1.0.0",
-  "description": "app basica para aprender ts",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^8.1.0",
-    "@types/google.maps": "^3.54.1"
-  },
-  "devDependencies": {
-    "buffer": "^6.0.3"
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.51.0"
   }
 }
